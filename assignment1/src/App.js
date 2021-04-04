@@ -13,7 +13,8 @@ function App() {
           className="App-link"
           href="https://github.com/Kayandrae/hw.1"
           target="_blank"
-          rel="noopener noreferrer"
+          rel="noopener noreferrer" 
+          
         >
           Check Me Out!
         </a>
